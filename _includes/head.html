@@ -1,7 +1,18 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    
+    <script type="text/javascript">
+      var titles = new Array(
+          'Hey, Cascadia!',
+          'Hey! Cascadia!',
+          'Hey Cascadia.'
+          'Hey! Cascadia!');
+      var title = titles[parseInt(Math.random() * titles.length)];
+      document.write('<title>{% if page.title %}{{ page.title }}{% else %}' + title + '{% endif %}</title>');
+    </script>
+    
+    
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
