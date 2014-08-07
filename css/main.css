@@ -12,7 +12,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Cabin, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   line-height: 1.5;
   font-weight: 400;
@@ -154,8 +154,8 @@ a:visited { color: #205caa; }
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 18px;
-  line-height: 1;
+  font-size: 24px;
+  line-height: 1.5;
   font-family: Roboto;
   font-weight: 900;
 }
