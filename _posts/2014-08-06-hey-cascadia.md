@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Hey, Cascadia!
+title: Snow Lake, WA
 ---
-
-Let's start with a nice picture!
 
 <img src="http://www.heycascadia.com/images/P7207773.JPG"
   width="600">
