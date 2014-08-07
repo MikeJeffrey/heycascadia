@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto);
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700);
+@import url(http://fonts.googleapis.com/css?family=Oxygen:400,700);
 
 /* Base */
 /* ----------------------------------------------------------*/
@@ -12,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-family: Oxygen, sans-serif;
   font-size: 14px;
   line-height: 1.5;
   font-weight: 300;
@@ -154,10 +155,10 @@ a:visited { color: #205caa; }
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 14px;
-  letter-spacing: -1px;
+  font-size: 18px;
   line-height: 1;
   font-family: Ubuntu;
+  font-weight: bold;
 }
 
 .posts .post-date {
