@@ -18,3 +18,5 @@ defaults:
       type: "post"
     values:
       layout: "default"
+
+excerpt_separator: <!--more-->

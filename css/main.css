@@ -1,4 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,900);
+@import url(http://fonts.googleapis.com/css?family=Cabin:400,700,400italic,700italic);
 
 /* Base */
 /* ----------------------------------------------------------*/
@@ -11,10 +12,10 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
   line-height: 1.5;
-  font-weight: 300;
+  font-weight: 400;
   background-color: #fdfdfd;
 }
 
@@ -154,13 +155,14 @@ a:visited { color: #205caa; }
 
 .posts .post-link {
   font-size: 24px;
-  letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1.5;
+  font-family: Roboto;
+  font-weight: 900;
 }
 
 .posts .post-date {
   display: block;
-  font-size: 15px;
+  font-size: 14px;
   color: #818181;
 }
 
@@ -409,4 +411,11 @@ a:visited { color: #205caa; }
     width: auto;
     margin: 0 0 15px; }
 
+}
+
+/* Mike's stuff */
+
+div.page-content img {
+  padding: 3px;
+  outline: #CCC solid thin;
 }
