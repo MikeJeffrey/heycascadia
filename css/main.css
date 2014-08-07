@@ -1,6 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700);
-@import url(http://fonts.googleapis.com/css?family=Oxygen:400,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,900);
+@import url(http://fonts.googleapis.com/css?family=Cabin:400,700,400italic,700italic);
 
 /* Base */
 /* ----------------------------------------------------------*/
@@ -13,10 +12,10 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Oxygen, sans-serif;
+  font-family: Cabin, sans-serif;
   font-size: 14px;
   line-height: 1.5;
-  font-weight: 300;
+  font-weight: 400;
   background-color: #fdfdfd;
 }
 
@@ -157,8 +156,8 @@ a:visited { color: #205caa; }
 .posts .post-link {
   font-size: 18px;
   line-height: 1;
-  font-family: Ubuntu;
-  font-weight: bold;
+  font-family: Roboto;
+  font-weight: 900;
 }
 
 .posts .post-date {
