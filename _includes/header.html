@@ -4,6 +4,16 @@
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
+    <script type="text/javascript">
+      var titles = new Array(
+          'Hey, Cascadia!',
+          'Hey! Cascadia!',
+          'Hey Cascadia.'
+          'Hey! Cascadia!');
+      var title = titles[parseInt(Math.random() * titles.length)];
+      document.write('<a class="site-title" href="{{ site.baseurl }}/">' + title + '</a>');
+    </script>
+
     <nav class="site-nav">
 
       <div class="trigger">
