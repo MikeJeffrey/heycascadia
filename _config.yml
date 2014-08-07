@@ -1,7 +1,7 @@
 # Site settings
 title: Hey, Cascadia!
 email: mike@heycascadia.com
-description: "Rite an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Hey, Cascadia!"
 baseurl: ""
 url: "http://www.heycascadia.com"
 twitter_username: 
