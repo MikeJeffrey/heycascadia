@@ -14,7 +14,7 @@ Here's where I'm at so far:
 
 <img src="/images/IMG_20140807_094658119.jpg" width="600px">
 
-<--more-->
+<!--more-->
 
 It's composed of:
 
