@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making a wireless freezer alarm with Arduino
+comments: True
 ---
 
 The other day I opened my deep freeze to discover everything inside slowly melting.
