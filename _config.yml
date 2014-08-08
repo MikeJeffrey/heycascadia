@@ -20,3 +20,8 @@ defaults:
       layout: "default"
 
 excerpt_separator: <!--more-->
+
+comments :
+  provider : disqus
+  disqus :
+    short_name : heycascadia
