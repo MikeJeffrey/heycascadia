@@ -1,5 +1,5 @@
 ---
-template: post
+layout: post
 title: Making a wireless freezer alarm with Arduino
 ---
 
