@@ -25,3 +25,6 @@ comments :
   provider : disqus
   disqus :
     short_name : heycascadia
+
+# Pagination
+paginate: 5
