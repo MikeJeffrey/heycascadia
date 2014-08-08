@@ -14,6 +14,8 @@ Here's where I'm at so far:
 
 <img src="/images/IMG_20140807_094658119.jpg" width="600px">
 
+<--more-->
+
 It's composed of:
 
 * An [Arduino Uno](http://www.amazon.com/gp/product/B00BT0NDB8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BT0NDB8&linkCode=as2&tag=camperizecom-20&linkId=MFPBW5NMRVYH2KDN).
