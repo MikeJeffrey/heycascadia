@@ -23,8 +23,7 @@ layout: default
   <div class="pagination">
     {% if paginator.previous_page == 1 %}
       <a href="/" title="Previous Page" class="previous">Previous</a>
-    {% endif %}
-    {% if paginator.previous_page %}
+    {% elsif paginator.previous_page %}
       <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
     {% endif %}
     <span class="page_number "><b>Page: {{ paginator.page }} of {{ paginator.total_pages }}</b></span>
