@@ -16,4 +16,4 @@ My Moto X took this photo; I've cropped in to a small part of it, about 1000x100
 The blog shrinks it down to about 600px, but it gives you an idea of the detail that
 a cell phone camera can catch.
 
-<img src="images/bee-on-a-thistle-revisited.jpg" width="600px">
+<img src="/images/bee-on-a-thistle-revisited.jpg" width="600px">
