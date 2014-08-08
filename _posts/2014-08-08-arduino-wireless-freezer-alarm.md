@@ -23,6 +23,8 @@ It's composed of:
 * A [CC3000 wireless shield](http://www.amazon.com/gp/product/B00J2QA9FE/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00J2QA9FE&linkCode=as2&tag=camperizecom-20&linkId=QXHSANCOQFYV3OO7).
 * A [DHT-22 temperature and humidity sensor](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=dht-22&linkCode=ur2&rh=i%3Aaps%2Ck%3Adht-22&sprefix=dht-2%2Caps&tag=camperizecom-20&url=search-alias%3Daps&linkId=K6KTTIZADGHF3SAQ).
 
+*(Oh, by the way: [you have to solder Arduino shields!](/2014-08-08-you-have-to-solder-arduino-shields.md)*
+
 Thanks to my colleague Dave Par's [wifi weather station](https://github.com/Davepar/wifi-weather-station)
 code, I had it up and running pretty quickly. The code reads the temperature and humidity every three
 minutes, and sends the data to [dweet.io](http://dweet.io).
