@@ -5,7 +5,7 @@ title: Blackberry-proof workgloves
 
 Once upon a time, I had a backyard full of blackberries:
 
-<img src="/images/backyard1.jpg" width="800px" />
+<img src="/images/backyard1.jpg" width="600px" />
 
 They were wound tightly around thousands of salmonberry plants,
 and the vines were as thick as my thumb. They had HUGE thorns that
@@ -15,7 +15,7 @@ My usual nitrile gloves were useless against the thorns, and I
 despaired as to what I would do with these blackberries. And then,
 at my local hardware store, I found these:
 
-<img src="/images/wells-lamont-blackberry-gloves.jpg" width="800px" />
+<img src="/images/wells-lamont-blackberry-gloves.jpg" width="600px" />
 
 They're
 <a href="http://www.amazon.com/gp/product/B005XQKD1W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005XQKD1W&linkCode=as2&tag=camperizecom-20&linkId=UZQPKH5TJHI6WJNW">Wells Lamont cowhide gloves
