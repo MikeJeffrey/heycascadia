@@ -4,7 +4,7 @@ title: You have to solder Arduino shields!
 ---
 
 It's so obvious to everyone else, that I couldn't find any reference to it on the internet:
-**you have to solder an Arduino shield**.
+**you have to solder an Arduino shield to the headers**.
 
 I thought it was plug and play, since the little header pins seemed very snug when I
 put the shield over the Arduino Uno. But the shield wasn't working, and it turns out
