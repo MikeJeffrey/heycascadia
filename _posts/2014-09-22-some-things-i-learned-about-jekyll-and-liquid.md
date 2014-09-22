@@ -17,13 +17,13 @@ I struggled a fair amound with conditionals, and this is what I learned:
 
 An example of all of this:
 
-    {% for page in site.pages %}
-      {% if page.category == 'docs' %}
+    %7B%25 for page in site.pages %}
+      %7B%25 if page.category == 'docs' %}
         ... do something ..
-      {% endif %}
-    {% endfor %}
+      %7B%25 endif %}
+    %7B%25 endfor %}
 
 The above works. What wouldn't work:
 
-    {% if page.category=='docs' %}...{% endif %} // Need a space before and after operator.
-    {% if page.category == "docs" %}...{% endif %} // Double quotes are not supported; use single quotes.
+    %7B%25 if page.category=='docs' %}...{% endif %} // Need a space before and after operator.
+    %7B%25 if page.category == "docs" %}...{% endif %} // Double quotes are not supported; use single quotes.
