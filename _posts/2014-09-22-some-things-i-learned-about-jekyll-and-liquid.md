@@ -25,5 +25,5 @@ An example of all of this:
 
 The above works. What wouldn't work:
 
-    {% if page.category=='docs' %} // Need a space before and after operator.
-    {% if page.category == "docs" %} // Double quotes are not supported; use single quotes.
+    {% if page.category=='docs' %}...{% endif %} // Need a space before and after operator.
+    {% if page.category == "docs" %}...{% endif %} // Double quotes are not supported; use single quotes.
