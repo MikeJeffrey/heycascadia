@@ -25,5 +25,5 @@ An example of all of this:
 
 The above works. What wouldn't work:
 
-    %7B%25 if page.category=='docs' %}...{% endif %} // Need a space before and after operator.
-    %7B%25 if page.category == "docs" %}...{% endif %} // Double quotes are not supported; use single quotes.
+    %7B%25 if page.category=='docs' %} // Need a space before and after operator.
+    %7B%25 if page.category == "docs" %} // Double quotes are not supported; use single quotes.
